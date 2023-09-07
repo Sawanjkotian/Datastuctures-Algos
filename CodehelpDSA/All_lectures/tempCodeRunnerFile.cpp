@@ -1,0 +1,1 @@
+cout<<"The reverse of the String is: "<<getrev(ch, n)<<endl;
